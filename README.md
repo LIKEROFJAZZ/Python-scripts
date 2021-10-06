@@ -1,1 +1,1 @@
-# offensive tools I created in python. Pretty beginner stuff but fun to mess around with.
+# a running repository of python tools ive created and/or contributed to 
