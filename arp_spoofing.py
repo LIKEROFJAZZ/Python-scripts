@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 
-""" I run pyth 3 by default. commented lines are required to run this script in pyth 2"""
+"""
+I also need to add arguments to this one...
+I run pyth 3 by default. commented lines are required to run this script in pyth 2"""
 import scapy.all as scapy
 import time
 #import sys
