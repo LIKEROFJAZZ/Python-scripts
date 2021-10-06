@@ -1,7 +1,10 @@
+#!/usr/bin/env python
 #subprocess.call allows us to execute commands from pyth. script
+
 import subprocess
 import optparse
 import re  
+
 
 def get_arguments():
     parser = optparse.OptionParser()
