@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
-#packet sniffer that is looking for certain keywords. not very flexible ATM, implement arguments to specify
-#interface, keywords, uptime, etc.
+
 
 import scapy.all as scapy
 from scapy.layers import http
